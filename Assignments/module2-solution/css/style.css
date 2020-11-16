@@ -8,10 +8,8 @@
 div#section1, #section2, #section3 {
 	margin: 20px;
 	border: 1px solid black;
-}
-
-div#section1, #section2, #section3{
 	background-color: #DADAE2;
+	position: relative;
 }
 
 div#section1 h2 {
